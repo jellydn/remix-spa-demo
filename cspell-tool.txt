@@ -1,5 +1,6 @@
 rubocop
 govet
-biomejs
 lefthook
+biomejs
 typecheck
+automerge
