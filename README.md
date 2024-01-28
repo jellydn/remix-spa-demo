@@ -1,8 +1,7 @@
 <h1 align="center">Welcome to remix-spa-demo 👋</h1>
 This project demonstrates how to use Biome with Bun.js and Remix to create a Single Page Application (SPA).
-<p>
-  <img src="https://img.shields.io/badge/node-%3E%3D18.0.0-blue.svg" />
-</p>
+
+[![IT Man - Revolutionizing Web Development: A Complete #Biome Setup Tutorial](https://i.ytimg.com/vi/iydIgSbSNBs/hqdefault.jpg)](https://www.youtube.com/watch?v=iydIgSbSNBs)
 
 ## Prerequisites
 
