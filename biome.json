@@ -14,5 +14,8 @@
 		"clientKind": "git",
 		"useIgnoreFile": true,
 		"defaultBranch": "main"
+	},
+	"formatter": {
+		"enabled": true
 	}
 }
