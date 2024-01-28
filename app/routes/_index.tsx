@@ -1,4 +1,5 @@
 import type { MetaFunction } from "@remix-run/node";
+import Counter from "components/Counter";
 
 export const meta: MetaFunction = () => {
 	return [
@@ -11,6 +12,7 @@ export default function Index() {
 	return (
 		<div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.8" }}>
 			<h1>Welcome to Remix (SPA Mode)</h1>
+			<Counter />
 			<ul>
 				<li>
 					<a
