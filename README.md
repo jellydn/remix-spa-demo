@@ -33,9 +33,18 @@ bun run dev
 
 Now, you can open your browser and navigate to `http://localhost:5173` to see the application in action.
 
+## Deployment
+
+- TBD
+
+
+## Migrate from Create-React-App to Remix
+
+- TBD
+
 ## Resources
 
-- [SPA Mode (Unstable) | Remix](https://remix.run/docs/en/main/future/spa-mode)
+- [SPA Mode | Remix](https://remix.run/docs/en/main/future/spa-mode)
 - [Use Biome in big projects | Biome](https://biomejs.dev/guides/big-projects/)
 - [Git Hooks | Biome](https://biomejs.dev/recipes/git-hooks/)
 - [Continuous Integration | Biome](https://biomejs.dev/recipes/continuous-integration/)
