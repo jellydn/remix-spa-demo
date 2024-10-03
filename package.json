@@ -1,34 +1,35 @@
 {
-  "name": "remix-spa-demo",
-  "private": true,
-  "sideEffects": false,
-  "type": "module",
-  "scripts": {
-    "build": "remix vite:build",
-    "dev": "remix vite:dev",
-    "postinstall": "lefthook install",
-    "lint": "npx @biomejs/biome check --apply .",
-    "start": "http-server build/client/",
-    "typecheck": "tsc"
-  },
-  "dependencies": {
-    "@remix-run/node": "2.12.1",
-    "@remix-run/react": "2.12.1",
-    "http-server": "14.1.1",
-    "react": "18.3.1",
-    "react-dom": "18.3.1"
-  },
-  "devDependencies": {
-    "@biomejs/biome": "1.9.3",
-    "@remix-run/dev": "2.12.1",
-    "@types/react": "18.3.11",
-    "@types/react-dom": "18.3.0",
-    "lefthook": "1.7.18",
-    "typescript": "5.6.2",
-    "vite": "5.4.8",
-    "vite-tsconfig-paths": "4.3.1"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  }
+	"name": "remix-spa-demo",
+	"private": true,
+	"sideEffects": false,
+	"type": "module",
+	"scripts": {
+		"build": "remix vite:build",
+		"dev": "remix vite:dev",
+		"postinstall": "lefthook install",
+		"lint": "npx @biomejs/biome check --write .",
+		"format": "npx @biomejs/biome format",
+		"start": "http-server build/client/",
+		"typecheck": "tsc"
+	},
+	"dependencies": {
+		"@remix-run/node": "2.12.1",
+		"@remix-run/react": "2.12.1",
+		"http-server": "14.1.1",
+		"react": "18.3.1",
+		"react-dom": "18.3.1"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "1.9.3",
+		"@remix-run/dev": "2.12.1",
+		"@types/react": "18.3.11",
+		"@types/react-dom": "18.3.0",
+		"lefthook": "1.7.18",
+		"typescript": "5.6.2",
+		"vite": "5.4.8",
+		"vite-tsconfig-paths": "4.3.1"
+	},
+	"engines": {
+		"node": ">=18.0.0"
+	}
 }
