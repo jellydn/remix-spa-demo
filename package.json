@@ -13,15 +13,15 @@
 		"typecheck": "tsc"
 	},
 	"dependencies": {
-		"@remix-run/node": "2.13.1",
-		"@remix-run/react": "2.13.1",
+		"@remix-run/node": "2.14.0",
+		"@remix-run/react": "2.14.0",
 		"http-server": "14.1.1",
 		"react": "18.3.1",
 		"react-dom": "18.3.1"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
-		"@remix-run/dev": "2.13.1",
+		"@remix-run/dev": "2.14.0",
 		"@types/react": "18.3.12",
 		"@types/react-dom": "18.3.1",
 		"lefthook": "1.8.2",
