@@ -24,9 +24,9 @@
 		"@remix-run/dev": "2.15.2",
 		"@types/react": "18.3.18",
 		"@types/react-dom": "18.3.5",
-		"lefthook": "1.10.8",
+		"lefthook": "1.10.9",
 		"typescript": "5.7.3",
-		"vite": "5.4.11",
+		"vite": "5.4.12",
 		"vite-tsconfig-paths": "5.1.4"
 	},
 	"engines": {
