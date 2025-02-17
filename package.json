@@ -16,14 +16,14 @@
 		"@remix-run/node": "2.15.3",
 		"@remix-run/react": "2.15.3",
 		"http-server": "14.1.1",
-		"react": "18.3.1",
-		"react-dom": "18.3.1"
+		"react": "19.0.0",
+		"react-dom": "19.0.0"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
 		"@remix-run/dev": "2.15.3",
-		"@types/react": "18.3.18",
-		"@types/react-dom": "18.3.5",
+		"@types/react": "19.0.10",
+		"@types/react-dom": "19.0.4",
 		"lefthook": "1.10.10",
 		"typescript": "5.7.3",
 		"vite": "5.4.14",
