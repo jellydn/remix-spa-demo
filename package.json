@@ -13,20 +13,20 @@
 		"typecheck": "tsc"
 	},
 	"dependencies": {
-		"@remix-run/node": "2.16.8",
-		"@remix-run/react": "2.16.8",
+		"@remix-run/node": "2.17.5",
+		"@remix-run/react": "2.17.5",
 		"http-server": "14.1.1",
 		"react": "18.3.1",
 		"react-dom": "18.3.1"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
-		"@remix-run/dev": "2.16.8",
-		"@types/react": "18.3.23",
+		"@remix-run/dev": "2.17.5",
+		"@types/react": "18.3.31",
 		"@types/react-dom": "18.3.7",
-		"lefthook": "1.11.14",
-		"typescript": "5.8.3",
-		"vite": "5.4.19",
+		"lefthook": "1.13.6",
+		"typescript": "5.9.3",
+		"vite": "5.4.21",
 		"vite-tsconfig-paths": "5.1.4"
 	},
 	"engines": {
